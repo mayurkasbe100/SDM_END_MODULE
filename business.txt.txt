@@ -1,0 +1,53 @@
+Business Entities:
+Users:-
+Name,
+Emaild
+password
+phone number
+
+Login:-
+Email
+password
+
+Employees:-
+project id
+employee id
+name,
+department
+
+Project Managers:-
+project id
+project department
+manager id
+
+Delivery Managers:-
+manager id
+delivery id
+project id
+delivery status
+
+Stakeholder:-
+name
+email
+password
+
+
+Business operations respective to 
+1.Employees:-
+1.1 Employees should be able to create account in the software with the necessary details like name,email,employee id,password,etc
+1.2 Employees should be able to login the account with employee id and password.
+1.3 Employees should be able to perform task assigned accordingly into the software and check status of work.
+
+2.Project Managers:-
+2.1 Project Managers should be able to create account in the software with the necessary details like name,email,employee id,password,etc
+2.2  Project Managers should be able to login the account with employee id and password.
+2.3 Employees should be able to assign task accordingly into the software to employees and check status of work.
+
+3.Delivery Managers:-
+3.1 Delivery Managers should be able to create account in the software with the necessary details like name,email,employee id,password,etc
+3.2  Delivery Managers should be able to login the account with employee id and password.
+3.3 Deliver Managers should be able to deal with clients regarding issues and update it to the team through software.
+3.4 Delivery Managers should be able to submit their respective projects.
+
+4.Stakeholders:-
+4.1.Stake holders can view the details of transactions,current updates,ongoing tasks,assigned task,completed tasks,etc

@@ -1,0 +1,28 @@
+Functional Requirements for the case study:-Online Project Management Sysytem
+
+
+1. User Registration 
+1.1 The system shall provide a user registration form that includes fields for name, email address, and password.
+1.2 The system shall validate the email address to ensure it is in a valid format.
+1.3 The system shall store the user's information securely and encrypt passwords.
+
+2. User Authentication
+2.1 The system shall provide a login form where registered users can enter their email and password.
+2.2 The system shall authenticate user details before granting access to the system.
+2.3 The system shall provide a password recovery/reset functionality to allow users to reset their passwords.
+
+3. Project Creation 
+3.1 The system shall provide a form for creating new projects, allowing users to enter a project name, description, start date, and end date.
+3.2 The system shall assign a unique identifier to each project created.
+3.3 The system shall associate each project with a project owner.
+
+4. Project Creation  
+4.1 The system shall enable users to upload files and associate them with projects or tasks.
+4.2 The system shall securely store uploaded files and ensure their accessibility to authorized project members.
+
+5. Team Communication 
+5.1 The system shall provide communication channels (such as chat or comments) for project members to interact and collaborate.
+5.2 The system shall allow real-time messaging and notifications for effective team communication.
+
+6.Project Status
+6.1 The system shall provide status of ongoing/completed projects.
